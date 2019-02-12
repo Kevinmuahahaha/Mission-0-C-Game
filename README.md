@@ -1,15 +1,15 @@
-# Mission-0-C-Game
+# Mission 0, A C++ Game
 It's a simple game written with C++ and SDL2
-The Details:
+# The Details:
 
-To-Dos Before The Game Loop:</br>
+## To-Dos Before The Game Loop:</br>
 
   	player.SetPlayerPosition();       // player <-- an Object from class Player
 	Info::mWindowHeight = ....        // Info   <-- Shared information( used between classes )
 	Info::mWindowWidth  = .... 
 	ObjectManager::mUIManager = ...   // ObjectManager <-- Manages non-player Objects. For example, the background.
 
-To-Dos Inside The Game Loop:
+## To-Dos Inside The Game Loop:
 
 	SDL_RenderClear( renderer );      // Of course, clear the renderer before rendering each frame.
 
