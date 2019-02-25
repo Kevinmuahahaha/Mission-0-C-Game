@@ -2,7 +2,7 @@
 It's a simple game written with C++ and SDL2
 # The Details:
 
-## To-Dos Before The Game Loop:</br>
+## Setups Before The Game Loop:</br>
 
   	player.SetPlayerPosition();       // player <-- an Object from class Player
 	Info::mWindowHeight = ....        // Info   <-- Shared information( used between classes )
